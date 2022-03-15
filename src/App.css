@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Nunito:wght@200&display=swap');
+
+.App {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 60px 40px auto;
+  place-items: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

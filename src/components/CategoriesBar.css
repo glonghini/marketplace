@@ -1,0 +1,15 @@
+.categories-bar {
+  height: 100%;
+  width: 80%;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.categories-bar button {
+  height: 100%;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
