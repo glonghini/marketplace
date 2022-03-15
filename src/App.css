@@ -3,7 +3,7 @@
 .App {
   height: 100vh;
   display: grid;
-  grid-template-rows: 60px 40px auto;
+  grid-template-rows: 60px 40px;
   place-items: center;
 }
 

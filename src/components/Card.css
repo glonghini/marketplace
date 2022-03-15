@@ -1,0 +1,31 @@
+.card {
+  width: 100%;
+  border: 2px solid silver;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:flex-end;
+}
+
+.card .dummy-image {
+  width: 100%;
+  aspect-ratio: 1;
+}
+
+.card p {
+  margin: 6px;
+}
+
+.card p.name {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.card p.category, .card p.info {
+  font-size: 12px;
+  color: grey;
+}
+
+.card p.price {
+  font-size: 18px;
+}
